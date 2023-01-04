@@ -1,0 +1,9 @@
+*{margin: 0; padding: 0;}
+a{text-decoration: none; color: #000;}
+ul{list-style: none;}
+
+#jamjam{width: 1320px; margin: 0 auto;}
+
+.top{width: 60px; height: 60px; background-color: rgb(229, 184, 255); border-radius: 30px;position: fixed; bottom: 30px; right:30px;}
+.top a{display: inline-block; padding: 20px 15px; font-weight: bold; color: blueviolet;}
+.top a:hover{color: #fff;}
